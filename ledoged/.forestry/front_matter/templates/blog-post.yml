@@ -17,3 +17,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- ledoged/content/posts/blog-template-test.md
