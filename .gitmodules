@@ -3,5 +3,5 @@
 	url = https://github.com/Track3/hermit.git
 [submodule "ledoged/public"]
 	path = ledoged/public
-	url = https://github.com/fatalnyl/ledoged.github.io.git
+	url = https://github.com/ledoged/ledoged.github.io.git
 	branch = master
