@@ -1,7 +1,7 @@
 baseURL = "https://ledoged.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Le doged"
+title = "ledoged."
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -35,8 +35,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # description = ""
   # images = [""]
   themeColor = "#494f5c"
+  # themeColor = "#000000"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "EE enthuaist ⚡."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -70,16 +71,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "Posts"
+    name = "posts."
     url = "posts/"
     weight = 10
 
   [[menu.main]]
-    name = "About"
+    name = "about."
     url = "about-hugo/"
     weight = 20
 
   [[menu.main]]
-    name = "Portfolio"
+    name = "portfolio."
     url = "portfolio/"
     weight = 30
