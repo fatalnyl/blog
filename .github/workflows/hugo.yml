@@ -39,6 +39,6 @@ jobs:
           external_repository: ledoged/ledoged.github.io
           publish_branch: master
           personal_token: ${{secrets.gh_token}}
-          user_name: aneesahammed
-          user_email: aneesahammed@mail.com
-          publish_dir: ./public
+          user_name: fatalnyl
+          user_email: fatalnylism@gmail.com
+          publish_dir: ./ledoged/public
