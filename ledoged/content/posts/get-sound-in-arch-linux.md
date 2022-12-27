@@ -1,7 +1,7 @@
 +++
 date = 2022-12-27T05:00:00Z
 draft = true
-images = ""
+images = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Alsamixer.jpg"
 tags = ["arch"]
 title = "Get sound in Arch Linux "
 toc = true
