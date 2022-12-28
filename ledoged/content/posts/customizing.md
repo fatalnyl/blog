@@ -7,4 +7,12 @@ tags:
 - meta
 
 ---
-Customizing this damn site is kinda hard 🤦‍♂️😭. Hugo is a damn pain in the ass I've been trying to learn this crap but it's taking a while...
+Customizing this site is kinda hard. 
+
+The original theme is kind of minimalist which is good if I want to add features but at the same time I want other features from other themes too. I've been referencing other themes to modify this theme.
+
+Hugo is a pain in the butt. I've been trying to learn Go but it's going to be taking a while...
+
+In the mean time to test image uploading, here's a cat. 
+
+![](/uploads/cute.jpg)
