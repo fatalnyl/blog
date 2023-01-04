@@ -1,9 +1,11 @@
 +++
-date = 2023-01-01T16:00:00Z
-draft = true
+date = 2022-12-31T16:00:00Z
 images = ""
 tags = []
-title = "Redshift setup"
+title = "2023 is here."
 toc = false
 
 +++
+New year. New setup.
+
+🎉🎉🎉
