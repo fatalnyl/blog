@@ -18,6 +18,7 @@ fields:
   name: tags
   label: tags
 pages:
+- ledoged/content/posts/arch-linux-sleep-causes-freeze-after-wake-up.md
 - ledoged/content/posts/blog-template-test.md
 - ledoged/content/posts/get-sound-in-arch-linux.md
 - ledoged/content/posts/new-theme.md
